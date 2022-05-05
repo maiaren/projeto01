@@ -1,3 +1,3 @@
-#Primeiro projeto com HTML e CSS
+# primeiro projeto com html e css
 
-##Feito no programa da Rocketseat - Explorer
+#### Feito no programa da Rocketseat - Explorer
